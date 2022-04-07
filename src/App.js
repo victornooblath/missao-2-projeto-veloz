@@ -105,7 +105,7 @@ function App() {
                     value={weather['main']['humidity'] }
                     disabled
                   />
-                  <span className="focus-input" data-placeholder="Humidade (%)"></span>
+                  <span className="focus-input" data-placeholder="Umidade (%)"></span>
                 </div>
               </form>
             </div>
